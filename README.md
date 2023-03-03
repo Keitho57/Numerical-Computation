@@ -13,7 +13,8 @@ on the client side.
 
 I use Numpy to handle all the calculations and send them back to the frontend in a JSON object.
 
-Good Luck! 🍀 ** You'll need it. ** 
+Good Luck! 🍀 **You'll need it.** 
+
 ---
 # 💻 Installation
 1. cd into client
