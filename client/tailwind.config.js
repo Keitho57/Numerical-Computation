@@ -12,6 +12,14 @@ module.exports = {
       lg: '1200px',
       xl: '1536px',
     },
+    colors: {
+      background: '#3AAFA9',
+      button: '#17252A',
+      accent: '#2B7A78',
+      primary: '#FEFFFF',
+      secondary: '#DEF2F1',
+      red: '#FF0000',
+    },
   },
   plugins: [],
 };
